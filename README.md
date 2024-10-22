@@ -57,8 +57,3 @@ Hi, I'm Kai Soong, a front-end Developer 🚀 from Beijing, China.
 
 ⭐️ From [Kai Soong](https://github.com/hxdyj)
 
-<style>
-  .badge-item{
-    margin-right: 10px;
-  }
-</style>
