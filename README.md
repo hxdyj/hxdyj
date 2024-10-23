@@ -6,8 +6,8 @@ Hi, I'm Kai Soong, a front-end Developer 🚀 from Beijing, China.
 
 - 👨🏽‍💻 I’m currently working on front-end development.
 - 🌱 I’m currently learning Rust.
-- 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: 951540966@qq.com;
+- 💬 Ask me about anything, I am happy to help.
+- 📫 How to reach me: 951540966@qq.com
 
 ### Open Source Projects
 
