@@ -11,6 +11,7 @@ Hi, I'm Kai Soong, a front-end Developer 🚀 from Beijing, China.
 
 ### Open Source Projects
 
+- [bbl-gantt](https://www.npmjs.com/package/bbl-gantt): A framework-independent JS Gantt chart library, supporting resize, drag-and-drop to create new tasks, custom styling, and duration mode functionalities.
 - [mark-img](https://www.npmjs.com/package/mark-img): A framework-agnostic JS image annotation library that supports multiple annotation methods, including rectangles, circles, polygons, lines, images, and Path.
 - [img-mark](https://www.npmjs.com/package/img-mark): Mark one or multiple main-areas in an image, as well as mark one or multiple sub-areas within the main-areas.
 - [vscode-react-ouline](https://marketplace.visualstudio.com/items?itemName=hxdyj.bbl-react-outline): This extension enables support for symbols and outlines for a React files in Vscode.
